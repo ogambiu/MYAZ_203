@@ -24,9 +24,5 @@ namespace ödev_hafta_2
             return $"{firstName,-20} {lastName,-20} {Id,15}";
             
         }
-
-
-      
-
     }
 }
